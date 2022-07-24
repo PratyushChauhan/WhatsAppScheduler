@@ -1,0 +1,6 @@
+//from mail - user's mail from which the mail is to be sent
+//from mail password - user's mail password
+//to mail - the recipient's mail
+//subject
+//body
+//send date - "day<3char> month<3char> date<2char> time<hh:mm:ss> TimeZone<3char> year<4char>"
